@@ -69,7 +69,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2024 CropCare AI. Built for Hackathon Demo.
+            © 2026 CropCare AI. Built for Hackathon Demo.
           </p>
           <p className="text-sm text-muted-foreground">
             Made with 💚 for farmers worldwide
